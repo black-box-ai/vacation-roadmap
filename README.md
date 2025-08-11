@@ -23,17 +23,32 @@ Este projeto é um **site interativo** para exibir um roteiro de viagem de forma
 ## 📂 Estrutura do Projeto
 
 ```
-├── public/            # Imagens e arquivos estáticos
-├── src/
-│   ├── components/    # Componentes reutilizáveis (Cards, Timeline, Gallery, etc.)
-│   ├── data/          # Arquivos de dados do roteiro
-│   ├── pages/         # Páginas principais
-│   ├── styles/        # Configuração do Tailwind e temas
-│   └── App.jsx        # Estrutura principal do app
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+vacation-roadmap/
+├─ public/
+│  ├─ images/                 # fotos reais (capas e pontos)
+│  └─ favicon.svg
+├─ src/
+│  ├─ components/
+│  │  ├─ DayCard.jsx
+│  │  ├─ Section.jsx
+│  │  ├─ Timeline.jsx
+│  │  ├─ Gallery.jsx
+│  │  ├─ ThemeToggle.jsx
+│  │  └─ ResumoDia.jsx
+│  ├─ data/
+│  │  └─ itinerary.js         # dias, horários, restaurantes, etc.
+│  ├─ pages/
+│  │  └─ Home.jsx             # herói/intro + seções
+│  ├─ styles/
+│  │  └─ index.css            # Tailwind + utilitários
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ .gitignore
+├─ index.html
+├─ package.json
+├─ postcss.config.js
+├─ tailwind.config.js
+└─ vite.config.js
 ```
 
 ## 🚀 Como Rodar Localmente
