@@ -1,6 +1,8 @@
 # 🏝️ Travel Itinerary Website
 
-Este projeto é um **site interativo** para exibir um roteiro de viagem de forma visual, dinâmica e responsiva, pensado para uso em **desktop** e **mobile**.
+Este projeto é um **site interativo** que funciona como um guia de bolso digital para viagens, com foco em design moderno, animações e experiência do usuário. Pensado para ser utilizado no celular durante a viagem, ele organiza informações de forma visual e prática, incluindo horários, locais e imagens.
+
+A proposta nasceu para transformar um roteiro de viagem tradicional em uma experiência imersiva, substituindo planilhas e documentos estáticos por um site dinâmico. O objetivo é facilitar a consulta rápida de informações durante o deslocamento, com acesso a mapas, horários e destaques do dia, além de interação com recursos como galeria de fotos e adição ao calendário.
 
 ## ✨ Funcionalidades
 
@@ -56,7 +58,7 @@ vacation-roadmap/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/travel-itinerary.git
+git clone https://github.com/black-box-ai/vacation-roadmap.git
 cd travel-itinerary
 ```
 
@@ -104,4 +106,3 @@ Este projeto é de uso pessoal, sem fins comerciais.
 ---
 
 ✈️ **Dica**: Utilize este site como um guia de bolso durante sua viagem — ele é responsivo e otimizado para mobile!
-
