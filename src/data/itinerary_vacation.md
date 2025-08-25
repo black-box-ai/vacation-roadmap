@@ -1,56 +1,63 @@
-## 📅 Roteiro Final Detalhado
+# 📅 Roteiro Final Detalhado
 
-## Dia 1 – Rio de Janeiro → Arraial do Cabo
+## 📅 Dia 1 – Rio de Janeiro → Arraial do Cabo (11/09, quinta-feira)
 
 ### 1. Deslocamento
 
-Origem: Aeroporto (SDU ou GIG) → Destino: Arraial do Cabo
+Origem: Aeroporto (GRU) → Aeroporto (GIG) → Destino: Arraial do Cabo
 
 Distância: ~165 km via BR-101 e RJ-140
 
 Tempo estimado: 2h30–3h (sem trânsito pesado)
 
-Sugestão: sair até 10h30 para evitar congestionamento na chegada.
+Sugestão: sair até 08h00 para evitar congestionamento na chegada.
 
 ### 2. Logística & Atividades
 
-10h00 – Chegada ao aeroporto e retirada do carro
+07h00 – Chegada ao aeroporto
 
-10h30 – Saída para Arraial do Cabo
+08h00 – Retirada do carro e saída para Arraial do Cabo
 
-13h30 – Check-in
+11h00 – Chegada em Arraial do Cabo
 
-13h45 – 14h45 – Almoço no centro
+11h30 - 13h00 – Praia Grande
 
-15h00 – 16h30 – Praia Grande
+13h30 - 14h30 – Almoço
 
-16h30 – 17h00 – Caminhada até Pontal do Atalaia
+15h00 – Check-in
 
-17h00 – 18h00 – Pôr do sol no Pontal do Atalaia
+15h30 – 16h00 – Caminhada até Pontal do Atalaia
 
-20h00 – Jantar no centro
+16h00 – 17h30 – Pôr do sol no Pontal do Atalaia
 
-22h00 – Descanso
+19h30 – Jantar
+
+21h30 – Descanso
 
 ### 3. Hospedagem
 
-Mais estruturada – Pousada Caminho do Sol (R$ 400–500 casal/noite) – Próxima à Praia Grande, piscina, restaurante, quartos amplos, café incluso.
-
-Mais simples – Hostel A Coroa (R$ 250–300 casal/noite) – Próxima ao centro, quartos privativos/compartilhados, ambiente descontraído, café simples.
+Pousada Arraial Tropical
+http://www.pousadaarraialtropical.com.br
+Rua Júlio de Macedo, 127 - Canaã
+Arraial do Cabo - RJ 28930-000
+Tel: (22) 2340-0932 
+Whatsapp: (22) 98167-1535 
 
 ### 4. Onde Comer
 
-Almoço
+**Almoço**
 
-Restaurante Água na Boca – self-service a quilo (R$ 35–45/pessoa)
+Varandas Gastromar Restaurante Rooftop (R$ 70–90/pessoa)
+Anexo Piscina - Av. Dr. Hermes Barcelos, n° 22 - Praia Grande, Arraial do Cabo - RJ, 28930-000
 
-Pimenta Rosa Gastronomia – pratos executivos e frutos do mar (R$ 50–70/pessoa)
+Mangará Restaurante (R$ 80–90/pessoa)
+R. Epitácio Pessoa, 45 - Praia Grande, Arraial do Cabo - RJ, 28930-000
 
-Jantar
+**Jantar**
 
-Bar do Zé – comida brasileira, frutos do mar (R$ 40–50/pessoa)
-
-Chez Margot – cozinha internacional, frutos do mar (R$ 70–90/pessoa), ambiente romântico.
+Sol na Cozinha (R$ 60–80/pessoa)
+R. Miguel Ângelo, 55 - Praia Grande, Arraial do Cabo - RJ, 28930-000
+ 
 
 ### 5. Dicas do Dia
 
@@ -80,7 +87,7 @@ O que fazer: contemplar a vista, fotografar, observar fauna marinha.
 
 Dicas específicas: chegue 30 min antes do pôr do sol; leve água; use calçado confortável.
 
-## Dia 2 – Arraial do Cabo
+## 📅 Dia 2 – Arraial do Cabo (12/09, sexta-feira)
 
 ### 1. Deslocamento
 
@@ -88,17 +95,21 @@ Dia inteiro em Arraial do Cabo, sem deslocamentos longos.
 
 ### 2. Logística & Atividades
 
-08h00 – Café da manhã
+07h00 – Café da manhã rápido
 
-08h45 – Caminhada até o cais
+07h15 – Saída para o Pontal do Atalaia
 
-09h00 – 13h00 – Passeio de barco (Praia do Farol, Prainhas, Gruta Azul)
+07h30 – 09h00 – **Pontal do Atalaia (Escadaria + Prainhas)**
 
-13h30 – 14h30 – Almoço no centro
+09h00 – 09h30 – Retorno ao cais/centro
 
-15h00 – 17h00 – Praia do Forno
+09h30 – 13h30 – **Passeio de barco/lancha** (Praia do Farol, Prainhas, Gruta Azul)
 
-17h00 – 17h30 – Pôr do sol na Praia Grande
+13h45 – 14h45 – Almoço
+
+15h15 – 16h45 – **Praia do Forno** (trilha ou táxi‑barco)
+
+17h00 – 17h30 – Pôr do sol na **Praia Grande**
 
 20h00 – Jantar no centro
 
@@ -106,29 +117,39 @@ Dia inteiro em Arraial do Cabo, sem deslocamentos longos.
 
 ### 3. Hospedagem
 
-Mesmas opções do Dia 1.
+Pousada Arraial Tropical
+http://www.pousadaarraialtropical.com.br
+Rua Júlio de Macedo, 127 - Canaã
+Arraial do Cabo - RJ 28930-000
+Tel: (22) 2340-0932 
+Whatsapp: (22) 98167-1535 
 
 ### 4. Onde Comer
 
 Almoço
 
-Saint Tropez – frutos do mar, vista para o mar (R$ 60–80/pessoa)
-
-Bacalhau do Tuga – pratos portugueses (R$ 70–90/pessoa)
+Restaurante Tio Dorp (R$ 90–100/pessoa)
+Praça Daniel Barreto n10 - Praia dos Anjos, Arraial do Cabo - RJ, 28930-000
 
 Jantar
 
-Bar do Zé – comida brasileira, frutos do mar (R$ 40–50/pessoa)
+Santo Gole Bar e Grill
+Praça Daniel Barreto, 05 - Praia dos Anjos, Arraial do Cabo - RJ, 28930-000
 
-Astral Beach Food – hambúrgueres gourmet e petiscos (R$ 60–80/pessoa)
+Restaurante Casa da Piedra
+Tortuga tur - R. Santa Cruz, 4 - Praia dos Anjos, Arraial do Cabo - RJ, 28930-000
 
 ### 5. Dicas do Dia
 
-Passeio de barco: leve roupa de banho, toalha, protetor solar, dinheiro vivo.
+Pontal do Atalaia (escadaria): vá **bem cedo (≈07h30)**. Estacionamento na rua é limitado e a escadaria enche rápido; a luz da manhã é a melhor para fotos.
 
-Pôr do sol na Praia Grande: ~17h30–17h45 → chegue até 17h10.
+Leve água e calçado confortável para a descida/subida da escadaria; evite descer com muitos itens.
 
-Praia do Forno tem acesso por trilha ou táxi-barco.
+Passeio de barco: leve roupa de banho, toalha, protetor solar e dinheiro vivo (algumas embarcações não aceitam cartão).
+
+Praia do Forno: acesso por trilha leve (~15 min) ou táxi‑barco; quiosques aceitam cartão, mas é bom ter dinheiro.
+
+Pôr do sol na Praia Grande: setembro ~17h30–17h45 → chegue por volta de 17h10.
 
 ### 6. Descrição dos Pontos
 
@@ -158,7 +179,7 @@ Enseada protegida, ideal para snorkeling, com quiosques simples.
 
 Dicas específicas: acesso por trilha leve; leve dinheiro vivo.
 
-## Dia 3 – Arraial do Cabo → Cabo Frio
+## 📅 Dia 3 – Arraial do Cabo → Cabo Frio (13/09, sábado)
 
 ### 1. Deslocamento
 
@@ -174,43 +195,47 @@ Tempo estimado: 15–20 min.
 
 08h30 – Saída para Cabo Frio
 
-08h50 – 11h30 – Praia do Forte
+08h50 – 10h50 – Praia do Forte + Forte São Mateus
 
 11h30 – 13h00 – Ilha do Japonês (acesso de barquinho)
 
-13h15 – 14h15 – Almoço próximo à Ilha do Japonês
+13h15 – 14h45 – Almoço
 
-14h30 – 16h30 – Forte São Mateus e Orla
+15h10 - 16h30 - Praia Brava
 
-17h00 – Retorno para Arraial
+17h00 - Check-in
 
-20h00 – Jantar em Arraial
+18h30 – Jantar
+
+20h00 – Passeio noturno na Orla + Feira de Artesanato
 
 22h00 – Descanso
 
 ### 3. Hospedagem
 
-Mesmas opções de Arraial.
+**Pousada Cavalo Branco**
+
+Localizado a uma distância aproximada de 7 km da Ilha do Japonês, o hotel Pousada Cavalo Branco dispõe de Wi-Fi na propriedade e de parque de estacionamento privado gratuito no local. As atrações da região, incluindo a Praça Das Águas, estão localizadas a apenas um agradável passeio deste estabelecimento.
+
+https://www.booking.com/hotel/br/pousada-cavalo-branco.pt-br.htmlß
+
+Endereço: R. Mario Quintanilha, 79 - Vila Nova, Cabo Frio - RJ, 28907-420
+Telefone: (22) 98846-9753
 
 ### 4. Onde Comer
 
-Almoço
+Roots Gastrobar
+R. Constantino Menelau, 40 - Passagem, Cabo Frio - RJ, 28906-060
 
-Restaurante Zeppoli – frutos do mar e massas (R$ 50–70/pessoa)
+José Restaurante
+R. Constantino Menelau, 39 - Passagem, Cabo Frio - RJ, 28906-060
 
-Cantinho do Pescador – peixes e frutos do mar (R$ 50–60/pessoa)
-
-Jantar
-
-Restaurante Água na Boca – self-service (R$ 35–45/pessoa)
-
-Chez Margot – cozinha internacional (R$ 70–90/pessoa)
+Nonna Tiva
+R. Prof. Domingos Ribeiro, 71 - Centro, Cabo Frio - RJ, 28906-100
 
 ### 5. Dicas do Dia
 
 Ilha do Japonês: travessia ~R$ 10–15 ida/volta, 3–5 min. Na maré baixa, pode ir a pé.
-
-Praia do Forte: vá cedo para fotos sem aglomeração.
 
 Forte São Mateus: entrada gratuita.
 
@@ -240,7 +265,7 @@ O que fazer: explorar o interior e tirar fotos panorâmicas.
 
 Dicas específicas: subida leve, piso irregular; vá com calçado confortável.
 
-## Dia 4 – Arraial do Cabo → Búzios
+## 📅 Dia 4 – Arraial do Cabo → Búzios (14/09, domingo)
 
 ### 1. Deslocamento
 
@@ -270,9 +295,23 @@ Sugestão: sair até 7h30 para aproveitar a manhã em Geribá.
 
 ### 3. Hospedagem
 
-Mais estruturada – Pousada Corsário (R$ 450–550 casal/noite) – Próxima à Orla Bardot, piscina e quartos amplos.
+**Pousada Blue Ocean**
 
-Mais simples – Pousada Nova Estrela (R$ 300–350 casal/noite) – Próxima à Rua das Pedras, ambiente simples e confortável.
+Com um jardim e muita tranquilidade, cercada de Mata Atlântica, a Pousada está situada em uma pequena colina e encontra-se localizada num dos melhores bairros de Búzios, em João Fernandes, a passos da famosa praia e também das mais lindas Praias da Cidade, como Azeda, Azedinha, Ossos e Armação e da famosa Rua das Pedras. Faz-se tudo a pé.
+
+https://www.pousadablueocean.com.br
+
+Rua Anália Silveira de Souza - n° 13 - João Fernandes
+Armação dos Búzios, RJ - Brasil
+
+Telefone
++55 (22) 2623-9097
+
+Whatsapp
++55 (22) 99806-7662
+
+E-mail
+blueoceanbuzios@gmail.com
 
 ### 4. Onde Comer
 
@@ -322,7 +361,7 @@ O que fazer: caminhada, fotos, curtir o pôr do sol.
 
 Dicas específicas: leve câmera; à noite, a iluminação deixa o local ainda mais charmoso.
 
-## Dia 5 – Búzios (Azedas/Azedinha → Ferradura → Tartaruga)
+## 📅 Dia 5 – Búzios (Azedas/Azedinha → Ferradura → Tartaruga) (15/09, segunda-feira)
 
 ### 1. Deslocamento
 
@@ -346,7 +385,23 @@ Dia inteiro em Búzios, deslocamentos curtos entre praias.
 
 ### 3. Hospedagem
 
-Mesmas opções do Dia 4.
+**Pousada Blue Ocean**
+
+Com um jardim e muita tranquilidade, cercada de Mata Atlântica, a Pousada está situada em uma pequena colina e encontra-se localizada num dos melhores bairros de Búzios, em João Fernandes, a passos da famosa praia e também das mais lindas Praias da Cidade, como Azeda, Azedinha, Ossos e Armação e da famosa Rua das Pedras. Faz-se tudo a pé.
+
+https://www.pousadablueocean.com.br
+
+Rua Anália Silveira de Souza - n° 13 - João Fernandes
+Armação dos Búzios, RJ - Brasil
+
+Telefone
++55 (22) 2623-9097
+
+Whatsapp
++55 (22) 99806-7662
+
+E-mail
+blueoceanbuzios@gmail.com
 
 ### 4. Onde Comer
 
@@ -406,21 +461,17 @@ O que fazer: fotos, passeio a pé, contemplar o visual.
 
 Dicas específicas: vá no fim da tarde; luz dourada favorece fotografias.
 
-## Dia 6 – Búzios → Rio das Ostras → Macaé → Sana
+## 📅 Dia 6 – Búzios → Rio das Ostras → Macaé (16/09, terça-feira)
 
 ### 1. Deslocamento
 
-Origem: Búzios → Rio das Ostras → Macaé → Sana
+Origem: Búzios → Rio das Ostras → Macaé
 
 Distâncias:
 
 Búzios → Rio das Ostras: ~60 km / 1h20
 
 Rio das Ostras → Macaé: ~30 km / 30 min
-
-Macaé → Sana: ~65 km / 1h20
-
-Sugestão: sair cedo para aproveitar as paradas.
 
 ### 2. Logística & Atividades
 
@@ -434,45 +485,49 @@ Sugestão: sair cedo para aproveitar as paradas.
 
 11h00 – 13h00 – Passeio pelas praias e locais marcantes para você mostrar
 
-13h00 – 14h30 – Almoço em Macaé
+13h00 – 14h30 – Almoço em Rio das Ostras
 
-14h30 – 15h50 – Viagem até Sana
+15h00 – 18h00 – Continuação passeio em Macaé
 
-16h00 – 17h30 – Passeio pelo centrinho do Sana, cafés e artesanato
-
-20h00 – Jantar
+20h00 – Jantar em Macaé
 
 22h00 – Descanso
 
 ### 3. Hospedagem
 
-Mais estruturada – Pousada Vale do Sana (R$ 300–350 casal/noite) – quartos simples, bem localizada.
+**Airbnb - Macaé - Praia do Pecado**
 
-Mais simples – chalés e hospedagens familiares (~R$ 200–250 casal/noite).
+Check-in: 14h00
+Check-out: 12h00
+Código de confirmação: HMSJ8HTCQ2
+
+Rua Itaipu, 251 - Apt 522
+Condomínio San Diego, Macaé - RJ
+
+Login: Michelly
+Senha: @pyndorama
 
 ### 4. Onde Comer
 
-Almoço (Macaé)
+Almoço (Rio das Ostras)
 
-Brasa & Vino – carnes e massas (R$ 50–70/pessoa)
+Picanha da Praia – carnes e frutos do mar (R$ 50–70/pessoa)
 
-Quiosque Karranka’s – frutos do mar (R$ 50–65/pessoa)
+Restaurante Maloca – pratos variados e bom custo-benefício (R$ 40–60/pessoa)
 
-Jantar (Sana)
+Jantar (Macaé)
 
-Pousada Vale do Sana – pratos caseiros (~R$ 40–55/pessoa)
+Durval – frutos do mar, tradicional na cidade (R$ 70–90/pessoa)
 
-Sana Roots – comida natural e vegetariana (~R$ 35–50/pessoa)
-
-Telectonon - Crepes
+Brasa & Vino – carnes e massas (R$ 60–80/pessoa)
 
 ### 5. Dicas do Dia
 
-Leve roupa leve para praia e um casaco para Sana (à noite pode esfriar).
-
 Em Rio das Ostras, aproveite para visitar o Mirante da Baleia para fotos panorâmicas.
 
-No Sana, à noite, o clima é tranquilo, bom para relaxar.
+Macaé tem praias urbanas charmosas como Cavaleiros – ótimo lugar para caminhar no fim da tarde.
+
+À noite, escolha restaurantes na orla de Macaé para jantar com vista para o mar.
 
 ### 6. Descrição dos Pontos
 
@@ -490,23 +545,23 @@ Mais extensa e com ondas mais fortes, boa para surfe e caminhadas.
 
 Dicas: melhor no início da manhã; boa para fotos no mirante.
 
-#### Sana
+#### Macaé
 
-Distrito de Macaé, famoso pelo clima serrano, cachoeiras e ambiente alternativo.
+Cidade litorânea com forte presença petrolífera, mas também com praias bonitas e boa gastronomia.
 
-O que fazer: visitar lojinhas de artesanato, cafés, curtir música ao vivo em bares locais.
+O que fazer: caminhar pela Praia dos Cavaleiros, visitar o Parque Municipal da Cidade.
 
-Dicas: à noite pode esfriar bastante; leve casaco.
+Dicas: fim de tarde na orla é ótimo para fotos e caminhadas.
 
-## Dia 7 – Sana → Nova Friburgo → Teresópolis → Petrópolis
+## 📅 Dia 7 – Macaé → Nova Friburgo → Teresópolis → Petrópolis (17/09, quarta-feira)
 
 ### 1. Deslocamento
 
-Origem: Sana → Nova Friburgo → Teresópolis → Petrópolis
+Origem: Macaé → Nova Friburgo → Teresópolis → Petrópolis
 
 Distâncias:
 
-Sana → Nova Friburgo: ~50 km / 1h20
+Macaé → Nova Friburgo: ~90 km / 2h
 
 Nova Friburgo → Teresópolis: ~80 km / 1h50
 
@@ -518,19 +573,17 @@ Sugestão: saída cedo para aproveitar as cidades.
 
 07h00 – Café e check-out
 
-07h30 – 09h00 – Passeio rápido no Sana (trilha ou mirante)
+07h30 – 09h30 – Viagem até Nova Friburgo (Bairro Olaria - Supermercado Serra Azul)
 
-09h00 – 10h20 – Viagem até Nova Friburgo
-
-10h20 – 12h30 – Passeio rápido e compras (lingerie, artesanato)
+09h30 – 12h00 – Passeio rápido e compras (lingerie, artesanato)
 
 12h30 – 14h20 – Viagem até Teresópolis, almoço na chegada
 
-14h30 – 18h00 – Feirinha do Alto + mirantes no Parque Nacional da Serra dos Órgãos
+14h30 – 18h00 – Villa St Gallen + Viva Itália
 
 18h00 – 19h30 – Viagem até Petrópolis
 
-20h00 – Jantar
+21h00 – Jantar algum lanche (procurar opções)
 
 22h00 – Descanso
 
@@ -545,8 +598,6 @@ Mais simples – Pousada Vale Paraíso (R$ 250–300 casal/noite) – simples, c
 Almoço (Teresópolis)
 
 Villa St Gallen – cozinha alemã (R$ 60–85/pessoa)
-
-Parrilla 1912 – carnes e massas (R$ 65–90/pessoa)
 
 Jantar (Petrópolis)
 
@@ -576,7 +627,7 @@ Trilhas, mirantes e vistas do famoso Dedo de Deus.
 
 Dicas: escolha trilhas leves se estiver com tempo curto; leve calçado apropriado.
 
-## Dia 8 – Petrópolis
+## 📅 Dia 8 – Petrópolis (18/09, quinta-feira)
 
 ### 1. Deslocamento
 
@@ -584,15 +635,15 @@ Dia inteiro em Petrópolis.
 
 ### 2. Logística & Atividades
 
-08h00 – 11h00 – Museu Imperial e Palácio de Cristal
+08h00 – 09h30 – Museu Imperial
 
-11h15 – 12h15 – Catedral São Pedro de Alcântara
+09h45 - 11h30 - Casa de Santos Dumont
 
-12h30 – 13h30 – Almoço
+11h45 – 12h30 – Catedral São Pedro de Alcântara
 
-14h00 – 17h30 – Rua Teresa (compras)
+12h45 – 14h30 – Almoço
 
-18h00 – Passeio noturno pelo centro histórico
+14h45 – 18h30 – Rua Teresa (compras)
 
 20h00 – Jantar
 
@@ -648,7 +699,7 @@ Principal polo de moda da cidade.
 
 Dicas: leve dinheiro vivo; muitas lojas oferecem descontos à vista.
 
-## Dia 9 – Petrópolis
+## 📅 Dia 9 – Petrópolis (19/09, sexta-feira)
 
 ### 1. Deslocamento
 
@@ -656,17 +707,15 @@ Dia inteiro em Petrópolis.
 
 ### 2. Logística & Atividades
 
-08h00 – 10h30 – Palácio Quitandinha
+09h00 – 10h30 – Palácio Quitandinha
 
-10h45 – 12h15 – Casa de Santos Dumont
+10h45 – 12h15 – Casa da Ipiranga / Casa de Petrópolis + Parque Natural Municipal
 
 12h30 – 13h30 – Almoço
 
-14h00 – 16h30 – Cervejaria Bohemia ou trilha leve no Parque Nacional
+14h00 – 16h30 – Cervejaria Bohemia
 
-17h00 – 18h30 – Compras finais na Rua Teresa ou centro histórico
-
-20h00 – Jantar
+20h00 – Jantar no Angá Atelie (fazer reserva)
 
 ### 3. Hospedagem
 
@@ -714,7 +763,7 @@ Tour interativo sobre a história da cerveja, com degustação.
 
 Dicas: reserve horário; exigido documento para maiores de 18 anos.
 
-## Dia 10 – Petrópolis → Rio de Janeiro
+## 📅 Dia 10 – Petrópolis → Rio de Janeiro (20/09, sábado)
 
 ### 1. Deslocamento
 
@@ -726,16 +775,19 @@ Tempo estimado: 1h30.
 
 ### 2. Logística & Atividades
 
-08h00 – 09h30 – Café da manhã especial em bistrô local
-
-09h30 – 11h00 – Viagem até o Rio
-
-Horário do voo – devolução do carro e embarque
+06h30 – Café da manhã rápido em Petrópolis (pousada ou padaria local)  
+07h00 – Saída de Petrópolis em direção ao Rio de Janeiro
+08h30 – 11h00 – Praia de Ipanema (curtir a praia, caminhar pela orla, se organizar para banho rápido em quiosque/estrutura)
+11h00 – 12h00 – Almoço rápido em Ipanema (opção prática próxima à praia)  
+12h00 – 12h30 – Deslocamento até o aeroporto
+13h00 - Devolução do carro
+13h30 – Chegada ao aeroporto e embarque (voo 15h00)
 
 ### 3. Onde Comer
 
 Café da manhã
+Padaria local em Petrópolis ou café da pousada (R$ 20–35/pessoa)
 
-Duetto’s Café – bistrô charmoso (R$ 35–50/pessoa)
-
-Casa Pellegrini – pães e doces artesanais (R$ 30–45/pessoa)
+Almoço rápido em Ipanema  
+Polis Sucos – sucos, sanduíches e pratos leves (R$ 40–60/pessoa)  
+Delírio Tropical – saladas e pratos rápidos (R$ 45–65/pessoa)
