@@ -281,11 +281,15 @@ Sugestão: sair até 7h30 para aproveitar a manhã em Geribá.
 
 07h30 – Café da manhã e check-out
 
-08h30 – 12h00 – Praia de Geribá
+08h30 – 10h00 - Praia de Ferradurinha
 
-12h15 – 13h15 – Almoço próximo à Geribá
+10h15 – 12h00 - Praia de Geribá
 
-14h00 – 16h30 – Praia de João Fernandes e João Fernandinho
+12h15 – 13h15 – Almoço Praia de Geribá
+
+13h30 – Check-in
+
+14h00 – 16h30 – Praia de João Fernandinho e João Fernandes
 
 17h00 – 18h00 – Pôr do sol na Orla Bardot
 
@@ -315,17 +319,9 @@ blueoceanbuzios@gmail.com
 
 ### 4. Onde Comer
 
-Almoço
-
-Fishbone Café – petiscos e pratos na areia de Geribá (R$ 50–70/pessoa)
-
-Bar do Zé Búzios – frutos do mar (R$ 60–80/pessoa)
-
 Jantar
 
-O Barco – frutos do mar e massas (R$ 70–90/pessoa)
-
-Primitivo – pizzaria gourmet (R$ 50–70/pessoa)
+Diversas opções na Rua das Pedras e também na Orla Bardot.
 
 ### 5. Dicas do Dia
 
@@ -377,7 +373,7 @@ Dia inteiro em Búzios, deslocamentos curtos entre praias.
 
 14h30 – 17h00 – Praia da Tartaruga
 
-17h30 – 18h30 – Pôr do sol na Praia da Armação
+17h30 – 18h30 – Pôr do sol no Porto da Barra/Praia de Manguinhos
 
 20h00 – Jantar
 
@@ -405,17 +401,9 @@ blueoceanbuzios@gmail.com
 
 ### 4. Onde Comer
 
-Almoço
-
-Restaurante do David – comida brasileira (R$ 40–60/pessoa)
-
-Anexo Praia – drinks e petiscos à beira-mar (R$ 50–70/pessoa)
-
 Jantar
 
-Rocka Beach Lounge – frutos do mar sofisticados (R$ 90–120/pessoa)
-
-Bar do Zé Búzios – frutos do mar (R$ 60–80/pessoa)
+Opções na Praia de Manguinhos ou Rua das Pedras e também na Orla Bardot.
 
 ### 5. Dicas do Dia
 
@@ -423,7 +411,7 @@ Azeda/Azedinha: praias pequenas e paradisíacas que lotam cedo → vá direto pe
 
 Ferradura: ideal para nadar e praticar esportes aquáticos.
 
-Tartaruga: águas mais mornas e calmas, ótimo para final de tarde.
+Tartaruga: águas mais mornas e calmas, ótimo para final de tarde. Levar Snorkel.
 
 Praia da Armação: perfeita para fotos no pôr do sol.
 
@@ -479,17 +467,21 @@ Rio das Ostras → Macaé: ~30 km / 30 min
 
 07h30 – 08h50 – Viagem até Rio das Ostras
 
-08h50 – 10h30 – Praia da Tartaruga e Costa Azul
+08h50 – 10h50 – Praia da Tartaruga + Tocolandia e Costa Azul
 
-10h30 – 11h00 – Viagem até Macaé
+11h00 – 11h30 – Viagem até Macaé
 
-11h00 – 13h00 – Passeio pelas praias e locais marcantes para você mostrar
+11h30 – 12h30 – Passeio pelas praias e locais marcantes para você mostrar
 
-13h00 – 14h30 – Almoço em Rio das Ostras
+12h30 – 14h30 – Almoço em Macaé
 
-15h00 – 18h00 – Continuação passeio em Macaé
+15h00 - Check-in no Airbnb
 
-20h00 – Jantar em Macaé
+15h30 – 17h00 – Praia do Pecado
+
+18h00 – 19h00 – Passeio na Orla da Praia dos Cavaleiros
+
+19h30 – Jantar na Praia dos Cavaleiros
 
 22h00 – Descanso
 
@@ -509,13 +501,15 @@ Senha: @pyndorama
 
 ### 4. Onde Comer
 
-Almoço (Rio das Ostras)
+Almoço
 
-Picanha da Praia – carnes e frutos do mar (R$ 50–70/pessoa)
+Haru Rooftop | Comida Japonesa em Macaé – sushi, sashimi e pratos quentes (R$ 100–120/pessoa)
+Rua Abílio Moreira de Miranda, 45 Macaé Trade Center - Cobertura - Imbetiba, Macaé - RJ, 27915-250
 
-Restaurante Maloca – pratos variados e bom custo-benefício (R$ 40–60/pessoa)
+Benedito
+R. Dolores Carvalho Vasconcelos, 03 - Glória, Macaé - RJ, 27920-390
 
-Jantar (Macaé)
+Jantar
 
 Durval – frutos do mar, tradicional na cidade (R$ 70–90/pessoa)
 
@@ -601,9 +595,11 @@ Villa St Gallen – cozinha alemã (R$ 60–85/pessoa)
 
 Jantar (Petrópolis)
 
-Imperatriz Leopoldina – alta gastronomia (R$ 90–130/pessoa)
+Bordeaux Vinhos Ipiranga
+Av. Ipiranga, 716 - Centro, Petrópolis - RJ, 25610-150
 
-Trattoria Locanda – massas artesanais (R$ 70–90/pessoa)
+Familia Scharder - Restaurante Alemão
+R. Alfredo Pachá, 100 - Centro, Petrópolis - RJ, 25685-210
 
 ### 5. Dicas do Dia
 
@@ -635,15 +631,15 @@ Dia inteiro em Petrópolis.
 
 ### 2. Logística & Atividades
 
-08h00 – 09h30 – Museu Imperial
+09h00 – 10h45 – Catedral São Pedro de Alcântara
 
-09h45 - 11h30 - Casa de Santos Dumont
+11h00 – 12h15 – Museu Imperial
 
-11h45 – 12h30 – Catedral São Pedro de Alcântara
+12h30 – 13h30 – Almoço
 
-12h45 – 14h30 – Almoço
+14h00 - 15h15 - Casa de Santos Dumont
 
-14h45 – 18h30 – Rua Teresa (compras)
+15h30 – 18h30 – Rua Teresa (compras)
 
 20h00 – Jantar
 
@@ -653,13 +649,18 @@ Mesmas opções do Dia 7.
 
 ### 4. Onde Comer
 
-Almoço
+##### Almoço
 
-Churrascaria Majórica – carnes e buffet (R$ 65–85/pessoa)
+Restaurante Tradição Imperial GELLI - Self service mais em conta (R$ 70/pessoa)
+R. Dezesseis de Março, 155 - Centro, Petrópolis - RJ, 25620-040
 
-Restaurante Bordeaux – massas e vinhos (R$ 70–90/pessoa)
+Locanda Centro Histórico - Cozinha italiana (R$ 90–100/pessoa)
+Av. Ipiranga, 439 - Centro, Petrópolis - RJ, 25610-150
 
-Jantar
+Princesa Isabel Gourmet - Cozinha contemporânea (R$ 80–110/pessoa)
+Av. Dom Pedro I, 270 - Centro, Petrópolis - RJ, 25610-020
+
+##### Jantar
 
 Imperatriz Leopoldina – alta gastronomia (R$ 90–130/pessoa)
 
@@ -707,13 +708,13 @@ Dia inteiro em Petrópolis.
 
 ### 2. Logística & Atividades
 
-09h00 – 10h30 – Palácio Quitandinha
+09h00 - 09h45 – Duetto's Bistrô e Café
 
-10h45 – 12h15 – Casa da Ipiranga / Casa de Petrópolis + Parque Natural Municipal
+10h00 – 11h15 – Palácio Quitandinha
 
-12h30 – 13h30 – Almoço
+11h30 – 13h45 – Casa da Ipiranga / Casa de Petrópolis + Parque Natural Municipal
 
-14h00 – 16h30 – Cervejaria Bohemia
+14h00 – 16h30 – Almoço + Cervejaria Bohemia
 
 20h00 – Jantar no Angá Atelie (fazer reserva)
 
@@ -725,15 +726,11 @@ Mesmas opções do Dia 7.
 
 Almoço
 
-Duetto’s Café e Bistrô – cozinha internacional (R$ 55–75/pessoa)
-
-Churrascaria Majórica – carnes e buffet (R$ 65–85/pessoa)
-
-Jantar
-
-Casa Pellegrini – massas e vinhos (R$ 70–90/pessoa)
+Lago Sul Churrascaria
+R. República da Argentina, 259 - Quitandinha, Petrópolis - RJ, 25651-140
 
 Imperatriz Leopoldina – alta gastronomia (R$ 90–130/pessoa)
+Av. Koeler, 376 - Centro Histórico, Petrópolis - RJ, 25685-060
 
 ### 5. Dicas do Dia
 
@@ -777,7 +774,7 @@ Tempo estimado: 1h30.
 
 06h30 – Café da manhã rápido em Petrópolis (pousada ou padaria local)  
 07h00 – Saída de Petrópolis em direção ao Rio de Janeiro
-08h30 – 11h00 – Praia de Ipanema (curtir a praia, caminhar pela orla, se organizar para banho rápido em quiosque/estrutura)
+08h30 – 11h00 – Praia de Ipanema (curtir a praia, caminhar pela orla, se organizar para banho rápido em quiosque)
 11h00 – 12h00 – Almoço rápido em Ipanema (opção prática próxima à praia)  
 12h00 – 12h30 – Deslocamento até o aeroporto
 13h00 - Devolução do carro
