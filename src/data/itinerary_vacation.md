@@ -772,12 +772,18 @@ Tempo estimado: 1h30.
 
 ### 2. Logística & Atividades
 
-06h30 – Café da manhã rápido em Petrópolis (pousada ou padaria local)  
+06h30 – Café da manhã rápido em Petrópolis (pousada ou padaria local)
+
 07h00 – Saída de Petrópolis em direção ao Rio de Janeiro
+
 08h30 – 11h00 – Praia de Ipanema (curtir a praia, caminhar pela orla, se organizar para banho rápido em quiosque)
-11h00 – 12h00 – Almoço rápido em Ipanema (opção prática próxima à praia)  
+
+11h00 – 12h00 – Almoço rápido em Ipanema (opção prática próxima à praia)
+
 12h00 – 12h30 – Deslocamento até o aeroporto
+
 13h00 - Devolução do carro
+
 13h30 – Chegada ao aeroporto e embarque (voo 15h00)
 
 ### 3. Onde Comer
